@@ -1,2 +1,2 @@
-_# Syn2Real: Evidential Deep Learning based Source-free Synthetic-to-Real Domain Adaptation for  SAR Automatic Target Recognition
+_# Synthetic SAR Prior knowledge based Evidential Deep Learning for reliable few-shot SAR target recognition
 
