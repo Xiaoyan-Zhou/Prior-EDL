@@ -1,2 +1,2 @@
-_# Synthetic SAR Prior knowledge based Evidential Deep Learning for reliable few-shot SAR target recognition
+_# Simulated SAR Prior knowledge guided Evidential Deep Learning for reliable few-shot SAR target recognition
 
