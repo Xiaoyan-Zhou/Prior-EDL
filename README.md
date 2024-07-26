@@ -8,13 +8,7 @@ Synthetic Aperture Radar (SAR) Automatic Target Recognition (ATR) plays a pivota
 ### train
 
 ```sh
-python 
-```
-
-### test
-
-```sh
-python 
+python 1train_student_15grass.py --loss_option Prior-EDL --kd_T 5 --model_path <your model path> --model_name <the source model> 
 ```
 
 
