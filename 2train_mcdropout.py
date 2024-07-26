@@ -145,7 +145,7 @@ def main():
     print('the loss function is cross Entropy')
 
     count_list = [i for i in range(opt.sample_times)]
-    for count in count_list[83:]:
+    for count in count_list:
         # dataloader
         # train
         Dataset = set_up_datasets(opt)
