@@ -10,5 +10,19 @@ Synthetic Aperture Radar (SAR) Automatic Target Recognition (ATR) plays a pivota
 ```sh
 python 1train_student_15grass.py --loss_option Prior-EDL --kd_T 5 --model_path <your model path> --model_name <the source model> 
 ```
+## Citation
+If you use this code for evidential learning as part of your project or paper, please cite the following work:
 
+@article{Prior_EDL_zhou,
+title = {Simulated SAR prior knowledge guided evidential deep learning for reliable few-shot SAR target recognition},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {216},
+pages = {1-14},
+year = {2024},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2024.07.014},
+url = {https://www.sciencedirect.com/science/article/pii/S0924271624002818},
+author = {Xiaoyan Zhou and Tao Tang and Qishan He and Lingjun Zhao and Gangyao Kuang and Li Liu},
+keywords = {SAR ATR, Simulated SAR data, Uncertainty estimation, Evidential deep learning, Few-shot learning},
+}
 
