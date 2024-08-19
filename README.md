@@ -12,7 +12,7 @@ python 1train_student_15grass.py --loss_option Prior-EDL --kd_T 5 --model_path <
 ```
 ## Citation
 If you use this code for SAR ATR, please cite the following work:
-
+```
 @article{Prior_EDL_zhou,
 title = {Simulated SAR prior knowledge guided evidential deep learning for reliable few-shot SAR target recognition},
 journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
@@ -25,4 +25,5 @@ url = {https://www.sciencedirect.com/science/article/pii/S0924271624002818},
 author = {Xiaoyan Zhou and Tao Tang and Qishan He and Lingjun Zhao and Gangyao Kuang and Li Liu},
 keywords = {SAR ATR, Simulated SAR data, Uncertainty estimation, Evidential deep learning, Few-shot learning},
 }
+```
 
