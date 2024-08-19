@@ -23,7 +23,7 @@ issn = {0924-2716},
 doi = {https://doi.org/10.1016/j.isprsjprs.2024.07.014},
 url = {https://www.sciencedirect.com/science/article/pii/S0924271624002818},
 author = {Xiaoyan Zhou and Tao Tang and Qishan He and Lingjun Zhao and Gangyao Kuang and Li Liu},
-keywords = {SAR ATR, Simulated SAR data, Uncertainty estimation, Evidential deep learning, Few-shot learning},
+keywords = {SAR ATR, Simulated SAR data, Uncertainty estimation, Evidential deep learning, Few-shot learning}
 }
 ```
 
